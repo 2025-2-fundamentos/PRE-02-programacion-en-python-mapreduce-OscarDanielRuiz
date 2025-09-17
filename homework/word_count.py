@@ -75,7 +75,7 @@ if __name__ == "__main__":
 
     run_job(
         "files/input",
-        "files/output",
+        "files/output ",
     )
 
     end_time = time.time()
